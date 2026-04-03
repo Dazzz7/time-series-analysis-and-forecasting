@@ -6,7 +6,7 @@ This project focuses on forecasting airline fares using historical data spanning
 I implement and compare multiple time series models, including ARIMA and SARIMA, to determine the most effective approach for predicting future airfare trends.
 
 ## Live Demo
-## https://colab.research.google.com/drive/1wb-mfi660geMHVxmu-PXz5n9KvMmmJ1j?usp=sharing
+https://colab.research.google.com/drive/1wb-mfi660geMHVxmu-PXz5n9KvMmmJ1j?usp=sharing
 
 📊 Dataset
 Source: Federal Reserve Economic Data (FRED)
